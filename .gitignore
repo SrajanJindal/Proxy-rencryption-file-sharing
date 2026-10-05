@@ -1,0 +1,11 @@
+# Environments
+.venv/
+__pycache__/
+
+# Cryptographic Keys and Binaries
+*.key
+*.bin
+*.enc
+
+# Dummy Test Files
+*.pdf
