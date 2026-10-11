@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+umbral
+sqlalchemy
+psycopg2-binary
